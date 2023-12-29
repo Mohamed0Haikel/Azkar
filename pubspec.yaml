@@ -39,6 +39,8 @@ dependencies:
   jhijri: ^1.0.0
   audioplayers: ^3.0.0
   flutter_native_splash: ^2.3.8
+  quran: ^1.2.3
+
 
 
 
